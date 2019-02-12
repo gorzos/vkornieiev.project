@@ -1,4 +1,4 @@
-package com.guzichenko.domain;
+package com.vkornieiev.domain;
 
 import java.math.BigDecimal;
 

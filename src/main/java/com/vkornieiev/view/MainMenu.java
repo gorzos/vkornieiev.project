@@ -1,4 +1,4 @@
-package com.guzichenko.view;
+package com.vkornieiev.view;
 
 import java.io.BufferedReader;
 import java.io.IOException;

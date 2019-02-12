@@ -1,4 +1,4 @@
-package com.guzichenko.services;
+package com.vkornieiev.services;
 
 public interface ClientService {
 

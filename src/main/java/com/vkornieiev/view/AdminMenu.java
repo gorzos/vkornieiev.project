@@ -1,11 +1,11 @@
-package com.guzichenko.view;
+package com.vkornieiev.view;
+
+import com.vkornieiev.services.ClientService;
+import com.vkornieiev.services.impl.ClientServiceImpl;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-import com.guzichenko.services.ClientService;
-import com.guzichenko.services.impl.ClientServiceImpl;
 
 public class AdminMenu {
 

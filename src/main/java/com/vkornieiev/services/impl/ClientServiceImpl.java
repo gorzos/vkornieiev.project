@@ -1,9 +1,9 @@
-package com.guzichenko.services.impl;
+package com.vkornieiev.services.impl;
 
-import com.guzichenko.dao.ClientDao;
-import com.guzichenko.dao.impl.ClientDaoImpl;
-import com.guzichenko.domain.Client;
-import com.guzichenko.services.ClientService;
+import com.vkornieiev.dao.ClientDao;
+import com.vkornieiev.dao.impl.ClientDaoImpl;
+import com.vkornieiev.domain.Client;
+import com.vkornieiev.services.ClientService;
 
 public class ClientServiceImpl implements ClientService {
 

@@ -1,6 +1,6 @@
-package com.guzichenko.dao;
+package com.vkornieiev.dao;
 
-import com.guzichenko.domain.Client;
+import com.vkornieiev.domain.Client;
 
 public interface ClientDao {
 

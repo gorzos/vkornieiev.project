@@ -1,8 +1,8 @@
-package com.guzichenko;
+package com.vkornieiev;
+
+import com.vkornieiev.view.MainMenu;
 
 import java.io.IOException;
-
-import com.guzichenko.view.MainMenu;
 
 public class App {
 

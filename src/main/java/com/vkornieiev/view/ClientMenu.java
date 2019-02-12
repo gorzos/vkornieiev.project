@@ -1,4 +1,4 @@
-package com.guzichenko.view;
+package com.vkornieiev.view;
 
 public class ClientMenu {
 

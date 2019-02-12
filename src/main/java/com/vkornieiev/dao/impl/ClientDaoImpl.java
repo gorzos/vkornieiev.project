@@ -1,7 +1,7 @@
-package com.guzichenko.dao.impl;
+package com.vkornieiev.dao.impl;
 
-import com.guzichenko.dao.ClientDao;
-import com.guzichenko.domain.Client;
+import com.vkornieiev.dao.ClientDao;
+import com.vkornieiev.domain.Client;
 
 public class ClientDaoImpl implements ClientDao {
 
